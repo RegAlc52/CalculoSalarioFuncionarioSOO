@@ -1,0 +1,4 @@
+# Ignorar arquivos e diretórios gerados pelo Visual Studio
+.vs/
+bin/
+obj/
